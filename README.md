@@ -45,7 +45,7 @@ Sakshi Pardhi | Om Chavan
 ![Home page](images/home.jpeg)
 ![Upload page](images/upload.jpeg)
 ![Upload page 2](images/upload2.jpeg)
-![Preprossed image](images/Preprossedimage.jpeg)
+![Preprossed image](images/preprossedimage.jpeg)
 ![Enhanced image](images/Enhancedimage.jpeg)
 ![About page 1](images/about.jpeg)
 ![About page 2](images/about2.jpeg)
